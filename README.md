@@ -6,7 +6,7 @@
 3. François Chassaing
 
 ## Description 
-There were two mendatory tasks.
+There were two mandatory tasks.
 
 1. In the first task we have tried to answer 
 RQ1. Build the graph G=(V, E), where V is the set of articles and E the hyperlinks among them, and provide its basic information:
